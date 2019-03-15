@@ -1,0 +1,23 @@
+{
+    "name": "mapkyca/known-sqlite3",
+    "description": "SQLite3 support for Known",
+    "version": "0.9.9-a",
+    "type" : "known-plugin",
+    "homepage" : "https://www.marcus-povey.co.uk/",
+    "require": {
+        "php": ">=7.0",
+        "ext-pdo": "*",
+        "ext-pdo_sqlite": "*"
+    },
+    "license": "Apache-2.0",
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "readme" : "README.md",
+    "keywords" : ["sqlite3", "known"],
+    "extra": {
+        "installer-name": "SQLite3"
+    },
+    "require-dev": {
+        "mapkyca/known-language-tools": "dev-master"
+    }
+}

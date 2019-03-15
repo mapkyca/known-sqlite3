@@ -1,0 +1,8 @@
+{
+  "name": "SQLite3",
+  "version": "0.9.9-a",
+  "description": "SQLite3 support for Known",
+  "devDependencies": {
+    "grunt": "^1.0.3"
+  }
+}
