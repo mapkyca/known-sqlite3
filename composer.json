@@ -1,7 +1,7 @@
 {
     "name": "mapkyca/known-sqlite3",
     "description": "SQLite3 support for Known",
-    "version": "0.9.9-a",
+    "version": "0.9.9-b",
     "type" : "known-plugin",
     "homepage" : "https://www.marcus-povey.co.uk/",
     "require": {

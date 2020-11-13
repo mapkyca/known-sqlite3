@@ -22,7 +22,6 @@ namespace IdnoPlugins\SQLite3 {
 	
 	function registerEventHooks() {
 	    
-	    \Idno\Core\site()->filesystem = new \IdnoPlugins\SQLite3\SQLite3();
 
 	}
 
